@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<FloorWood1.label>木地板</FloorWood1.label>
+   <FloorWood2.label>大型硬木地板</FloorWood2.label>
+   <FloorWood3.label>輕木地板</FloorWood3.label>
+   <FloorWood4.label>馬賽克木地板</FloorWood4.label>
+   <FloorWood5.label>垂直木地板</FloorWood5.label>
+
+   <FloorWood1.description>鄉村風格的硬木地板。</FloorWood1.description>
+   <FloorWood2.description>乾淨寬敞的木地板。</FloorWood2.description>
+   <FloorWood3.description>淺色木地板。</FloorWood3.description>
+   <FloorWood4.description>馬賽克拼花地板。</FloorWood4.description>
+   <FloorWood5.description>釉面黑色硬木地板。</FloorWood5.description>
+</LanguageData>

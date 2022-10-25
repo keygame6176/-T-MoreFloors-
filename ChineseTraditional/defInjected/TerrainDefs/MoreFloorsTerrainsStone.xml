@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Square slab flooring -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneSlabsSandstone.label>砂岩（砂岩）</FloorStoneSlabsSandstone.label>
+	<FloorStoneSlabsGranite.label>岩石板（花崗岩）</FloorStoneSlabsGranite.label>
+	<FloorStoneSlabsLimestone.label>岩板（石灰岩）</FloorStoneSlabsLimestone.label>
+	<FloorStoneSlabsSlate.label>板岩（板岩）</FloorStoneSlabsSlate.label>
+	<FloorStoneSlabsMarble.label>岩盤（大理石）</FloorStoneSlabsMarble.label>
+	<FloorStoneSlabsSandstone.description>由普通石板製成的地板。易於製作和實用。</FloorStoneSlabsSandstone.description>
+	<FloorStoneSlabsGranite.description>這是一種由普通石板製成的地板。易於製作和實用。</FloorStoneSlabsGranite.description>
+	<FloorStoneSlabsLimestone.description>這是一種由普通石板製成的地板。易於製作和實用。</FloorStoneSlabsLimestone.description>
+	<FloorStoneSlabsSlate.description>這是由普通石板製成的地板。易於製作和實用。</FloorStoneSlabsSlate.description>
+	<FloorStoneSlabsMarble.description>這是由普通石板製成的地板。易於製作和實用。</FloorStoneSlabsMarble.description>
+	<!-- Rough stone flooring -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneRoughSandstone.label>粗石地板（砂岩）</FloorStoneRoughSandstone.label>
+	<FloorStoneRoughGranite.label>粗石地板（花崗岩）</FloorStoneRoughGranite.label>
+	<FloorStoneRoughLimestone.label>粗石地板（石灰岩）</FloorStoneRoughLimestone.label>
+	<FloorStoneRoughSlate.label>粗石地板（板岩）</FloorStoneRoughSlate.label>
+	<FloorStoneRoughMarble.label>粗石地板（大理石）</FloorStoneRoughMarble.label>
+	<FloorStoneRoughSandstone.description>可以用少量石頭製作的粗糙地板。它看起來平庸，需要一段時間才能製作。</FloorStoneRoughSandstone.description>
+	<FloorStoneRoughGranite.description>可以用少量石頭製作的粗糙地板。它看起來平庸，需要一段時間才能製作。</FloorStoneRoughGranite.description>
+	<FloorStoneRoughLimestone.description>可以用少量石頭製作的粗糙地板。它看起來平庸，需要一段時間才能製作。</FloorStoneRoughLimestone.description>
+	<FloorStoneRoughSlate.description>可以用少量石頭製作的粗糙地板。它看起來就像它，但需要一段時間才能製作。</FloorStoneRoughSlate.description>
+	<FloorStoneRoughMarble.description>可以用少量石頭製作的粗糙地板。它看起來平庸，需要一段時間才能製作。</FloorStoneRoughMarble.description>
+	<!-- Hexagonal flooring -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneHexSandstone.label>六角瓷磚（砂岩）</FloorStoneHexSandstone.label>
+	<FloorStoneHexGranite.label>六角瓷磚（花崗岩）</FloorStoneHexGranite.label>
+	<FloorStoneHexLimestone.label>六角瓷磚（石灰岩）</FloorStoneHexLimestone.label>
+	<FloorStoneHexSlate.label>六角瓷磚（板岩）</FloorStoneHexSlate.label>
+	<FloorStoneHexMarble.label>六角瓷磚（大理石）</FloorStoneHexMarble.label>
+	<FloorStoneHexSandstone.description>由六角形瓷磚製成的引人注目的岩石地板。</FloorStoneHexSandstone.description>
+	<FloorStoneHexGranite.description>由六角形瓷磚製成的引人注目的岩石地板。</FloorStoneHexGranite.description>
+	<FloorStoneHexLimestone.description>由六角形瓷磚製成的引人注目的岩石地板。</FloorStoneHexLimestone.description>
+	<FloorStoneHexSlate.description>由六角形瓷磚製成的引人注目的岩石地板。</FloorStoneHexSlate.description>
+	<FloorStoneHexMarble.description>由六角形瓷磚製成的引人注目的岩石地板。</FloorStoneHexMarble.description>
+	<!-- Mosaic flooring -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneMosaicSandstone.label>馬賽克瓷磚（砂岩）</FloorStoneMosaicSandstone.label>
+	<FloorStoneMosaicGranite.label>馬賽克瓷磚（花崗岩）</FloorStoneMosaicGranite.label>
+	<FloorStoneMosaicLimestone.label>馬賽克瓷磚（石灰岩）</FloorStoneMosaicLimestone.label>
+	<FloorStoneMosaicSlate.label>馬賽克瓷磚（板岩）</FloorStoneMosaicSlate.label>
+	<FloorStoneMosaicMarble.label>馬賽克瓷磚（大理石）</FloorStoneMosaicMarble.label>
+	<FloorStoneMosaicSandstone.description>具有迷人馬賽克圖案的地板。</FloorStoneMosaicSandstone.description>
+	<FloorStoneMosaicGranite.description>具有迷人馬賽克圖案的地板。</FloorStoneMosaicGranite.description>
+	<FloorStoneMosaicLimestone.description>具有迷人馬賽克圖案的地板。</FloorStoneMosaicLimestone.description>
+	<FloorStoneMosaicSlate.description>具有迷人馬賽克圖案的地板。</FloorStoneMosaicSlate.description>
+	<FloorStoneMosaicMarble.description>具有迷人馬賽克圖案的地板。</FloorStoneMosaicMarble.description>
+	<!-- Random stone flooring -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneRandomSandstone.label>不規則瓷磚（砂岩）</FloorStoneRandomSandstone.label>
+	<FloorStoneRandomGranite.label>不規則瓷磚（花崗岩）</FloorStoneRandomGranite.label>
+	<FloorStoneRandomLimestone.label>不規則瓷磚（石灰岩）</FloorStoneRandomLimestone.label>
+	<FloorStoneRandomSlate.label>不規則瓷磚（板岩）</FloorStoneRandomSlate.label>
+	<FloorStoneRandomMarble.label>不規則瓷磚（大理石）</FloorStoneRandomMarble.label>
+	<FloorStoneRandomSandstone.description>這個地板是通過仔細放置粗糙和不規則圖案的岩石板製成的。比馬賽克地板需要更少的材料，但更費力。</FloorStoneRandomSandstone.description>
+	<FloorStoneRandomGranite.description>這是通過仔細放置粗糙且不規則圖案的岩石板製成的地板。比馬賽克地板需要更少的材料，但更費力。</FloorStoneRandomGranite.description>
+	<FloorStoneRandomLimestone.description>這是通過仔細放置粗糙且不規則圖案的岩石板製成的地板。比馬賽克地板需要更少的材料，但更費力。</FloorStoneRandomLimestone.description>
+	<FloorStoneRandomSlate.description>這是通過仔細放置粗糙且不規則圖案的岩石板製成的地板。比馬賽克地板需要更少的材料，但更費力。</FloorStoneRandomSlate.description>
+	<FloorStoneRandomMarble.description>這是通過仔細放置粗糙且不規則圖案的岩石板製成的地板。比馬賽克地板需要更少的材料，但更費力。</FloorStoneRandomMarble.description>
+	<!-- Chequered  Single stone flooring -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneChequeredSandstone.label>方格石板單色（砂岩）</FloorStoneChequeredSandstone.label>
+	<FloorStoneChequeredGranite.label>方格石板單色（花崗岩）</FloorStoneChequeredGranite.label>
+	<FloorStoneChequeredLimestone.label>方格石板單色（石灰岩）</FloorStoneChequeredLimestone.label>
+	<FloorStoneChequeredSlate.label>方格石板單色（板岩）</FloorStoneChequeredSlate.label>
+	<FloorStoneChequeredMarble.label>方格石板單色（大理石）</FloorStoneChequeredMarble.label>
+	<FloorStoneChequeredSandstone.description>方格石板，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequeredSandstone.description>
+	<FloorStoneChequeredGranite.description>方格石板，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequeredGranite.description>
+	<FloorStoneChequeredLimestone.description>方格石板，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequeredLimestone.description>
+	<FloorStoneChequeredSlate.description>方格石板，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequeredSlate.description>
+	<FloorStoneChequeredMarble.description>方格石板，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequeredMarble.description>
+	<!-- Chequered floors -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneChequerMarbleSlate.label>方格石板雙色(大理石/板岩)</FloorStoneChequerMarbleSlate.label>
+	<FloorStoneChequerMarbleSandstone.label>方格石板雙色(大理石/砂岩)</FloorStoneChequerMarbleSandstone.label>
+	<FloorStoneChequerMarbleGranite.label>方格石板雙色(大理石/花崗岩)</FloorStoneChequerMarbleGranite.label>
+	<FloorStoneChequerLimestoneSlate.label>方格石板雙色（石灰岩/板岩）</FloorStoneChequerLimestoneSlate.label>
+	<FloorStoneChequerLimestoneSandstone.label>方格石板雙色（石灰岩/砂岩）</FloorStoneChequerLimestoneSandstone.label>
+	<FloorStoneChequerLimestoneGranite.label>方格石板雙色（石灰岩/花崗岩）</FloorStoneChequerLimestoneGranite.label>
+	<FloorStoneChequerSlateSandstone.label>方格石板雙色（板岩/砂岩）</FloorStoneChequerSlateSandstone.label>
+	<FloorStoneChequerSlateGranite.label>方格石板雙色（板岩/花崗岩）</FloorStoneChequerSlateGranite.label>
+	<FloorStoneChequerLimestoneMarble.label>方格石板雙色（石灰岩/大理石）</FloorStoneChequerLimestoneMarble.label>
+	<FloorStoneChequerMarbleSlate.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerMarbleSlate.description>
+	<FloorStoneChequerMarbleSandstone.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerMarbleSandstone.description>
+	<FloorStoneChequerMarbleGranite.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerMarbleGranite.description>
+	<FloorStoneChequerLimestoneSlate.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerLimestoneSlate.description>
+	<FloorStoneChequerLimestoneSandstone.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerLimestoneSandstone.description>
+	<FloorStoneChequerLimestoneGranite.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerLimestoneGranite.description>
+	<FloorStoneChequerSlateSandstone.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerSlateSandstone.description>
+	<FloorStoneChequerSlateGranite.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerSlateGranite.description>
+	<FloorStoneChequerLimestoneMarble.description>方格石板將兩種色調的石頭組合在一起，形成令人愉悅的圖案。比其他類似質量的石材地板更容易建造。</FloorStoneChequerLimestoneMarble.description>
+	<!-- Arabesque stone flooring -->
+	<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneArabesqueSandstone.label>花紋地板（砂岩）</FloorStoneArabesqueSandstone.label>
+	<FloorStoneArabesqueGranite.label>花紋地板（花崗岩）</FloorStoneArabesqueGranite.label>
+	<FloorStoneArabesqueLimestone.label>花紋地板（石灰岩）</FloorStoneArabesqueLimestone.label>
+	<FloorStoneArabesqueSlate.label>花紋地板（板岩）</FloorStoneArabesqueSlate.label>
+	<FloorStoneArabesqueMarble.label>花紋地板（大理石）</FloorStoneArabesqueMarble.label>
+		
+	<FloorStoneArabesqueSandstone.description>精心製作的石材地板，瓷磚精心塑造成蔓藤花紋圖案。 非常好看，但更費力。</FloorStoneArabesqueSandstone.description>
+	<FloorStoneArabesqueGranite.description>精心製作的石材地板，瓷磚精心塑造成蔓藤花紋圖案。 非常好看，但更費力。</FloorStoneArabesqueGranite.description>
+	<FloorStoneArabesqueLimestone.description>精心製作的石材地板，瓷磚精心塑造成蔓藤花紋圖案。 非常好看，但更費力。</FloorStoneArabesqueLimestone.description>
+	<FloorStoneArabesqueSlate.description>精心製作的石材地板，瓷磚精心塑造成蔓藤花紋圖案。 非常好看，但更費力。</FloorStoneArabesqueSlate.description>
+	<FloorStoneArabesqueMarble.description>精心製作的石材地板，瓷磚精心塑造成蔓藤花紋圖案。 非常好看，但更費力。</FloorStoneArabesqueMarble.description>
+	  <!-- Staggered tile flooring -->
+	  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneStaggeredSandstone.label>條型石磚（砂岩）</FloorStoneStaggeredSandstone.label>
+	<FloorStoneStaggeredGranite.label>條型石磚（花崗岩）</FloorStoneStaggeredGranite.label>
+	<FloorStoneStaggeredLimestone.label>條型石磚（石灰岩）</FloorStoneStaggeredLimestone.label>
+	<FloorStoneStaggeredSlate.label>條型石磚（板岩）</FloorStoneStaggeredSlate.label>
+	<FloorStoneStaggeredMarble.label>條型石磚（大理石）</FloorStoneStaggeredMarble.label>
+		
+	<FloorStoneStaggeredSandstone.description>條型石磚以交錯圖案鋪設。</FloorStoneStaggeredSandstone.description>
+	<FloorStoneStaggeredGranite.description>條型石磚以交錯圖案鋪設。</FloorStoneStaggeredGranite.description>
+	<FloorStoneStaggeredLimestone.description>條型石磚以交錯圖案鋪設。</FloorStoneStaggeredLimestone.description>
+	<FloorStoneStaggeredSlate.description>條型石磚以交錯圖案鋪設。</FloorStoneStaggeredSlate.description>
+	<FloorStoneStaggeredMarble.description>條型石磚以交錯圖案鋪設。</FloorStoneStaggeredMarble.description>
+ <!-- Alternating stone flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneAlternatingSandstone.label>條型交錯石磚（砂岩）</FloorStoneAlternatingSandstone.label>
+	<FloorStoneAlternatingGranite.label>條型交錯石磚（花崗岩）</FloorStoneAlternatingGranite.label>
+	<FloorStoneAlternatingLimestone.label>條型交錯石磚（石灰岩）</FloorStoneAlternatingLimestone.label>
+	<FloorStoneAlternatingSlate.label>條型交錯石磚（板岩）</FloorStoneAlternatingSlate.label>
+	<FloorStoneAlternatingMarble.label>條型交錯石磚（大理石）</FloorStoneAlternatingMarble.label>
+		
+	<FloorStoneAlternatingSandstone.description>條型磚鋪成的石材地板以簡單但宜人的交替圖案鋪設。 比其他類似質量的石材地板更容易建造。</FloorStoneAlternatingSandstone.description>
+	<FloorStoneAlternatingGranite.description>條型磚鋪成的石材地板以簡單但宜人的交替圖案鋪設。 比其他類似質量的石材地板更容易建造。</FloorStoneAlternatingGranite.description>
+	<FloorStoneAlternatingLimestone.description>條型磚鋪成的石材地板以簡單但宜人的交替圖案鋪設。 比其他類似質量的石材地板更容易建造。</FloorStoneAlternatingLimestone.description>
+	<FloorStoneAlternatingSlate.description>條型磚鋪成的石材地板以簡單但宜人的交替圖案鋪設。 比其他類似質量的石材地板更容易建造。</FloorStoneAlternatingSlate.description>
+	<FloorStoneAlternatingMarble.description>條型磚鋪成的石材地板以簡單但宜人的交替圖案鋪設。 比其他類似質量的石材地板更容易建造。</FloorStoneAlternatingMarble.description>
+  <!-- Herringbone stone flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneHerringboneSandstone.label>人字型磚（砂岩）</FloorStoneHerringboneSandstone.label>
+	<FloorStoneHerringboneGranite.label>人字型磚（花崗岩）</FloorStoneHerringboneGranite.label>
+	<FloorStoneHerringboneLimestone.label>人字型磚（石灰岩）</FloorStoneHerringboneLimestone.label>
+	<FloorStoneHerringboneSlate.label>人字型磚（板岩）</FloorStoneHerringboneSlate.label>
+	<FloorStoneHerringboneMarble.label>人字型磚（大理石）</FloorStoneHerringboneMarble.label>
+		
+	<FloorStoneHerringboneSandstone.description>以時尚的人字形圖案鋪設的石磚。</FloorStoneHerringboneSandstone.description>
+	<FloorStoneHerringboneGranite.description>以時尚的人字形圖案鋪設的石磚。</FloorStoneHerringboneGranite.description>
+	<FloorStoneHerringboneLimestone.description>以時尚的人字形圖案鋪設的石磚。</FloorStoneHerringboneLimestone.description>
+	<FloorStoneHerringboneSlate.description>以時尚的人字形圖案鋪設的石磚。</FloorStoneHerringboneSlate.description>
+	<FloorStoneHerringboneMarble.description>以時尚的人字形圖案鋪設的石磚。</FloorStoneHerringboneMarble.description>
+ 
+ <!-- Digital flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<FloorStoneDigitalSandstone.label>模糊磚（砂岩）</FloorStoneDigitalSandstone.label>
+	<FloorStoneDigitalGranite.label>模糊磚（花崗岩）</FloorStoneDigitalGranite.label>
+	<FloorStoneDigitalLimestone.label>模糊磚（石灰岩）</FloorStoneDigitalLimestone.label>
+	<FloorStoneDigitalSlate.label>模糊磚（板岩）</FloorStoneDigitalSlate.label>
+	<FloorStoneDigitalMarble.label>模糊磚（大理石）</FloorStoneDigitalMarble.label>
+		
+	<FloorStoneDigitalSandstone.description>巧妙地使用兩種形狀的石頭創造出模糊的數字圖案的鋪路。</FloorStoneDigitalSandstone.description>
+	<FloorStoneDigitalGranite.description>巧妙地使用兩種形狀的石頭創造出模糊的數字圖案的鋪路。</FloorStoneDigitalGranite.description>
+	<FloorStoneDigitalLimestone.description>巧妙地使用兩種形狀的石頭創造出模糊的數字圖案的鋪路。</FloorStoneDigitalLimestone.description>
+	<FloorStoneDigitalSlate.description>巧妙地使用兩種形狀的石頭創造出模糊的數字圖案的鋪路。</FloorStoneDigitalSlate.description>
+	<FloorStoneDigitalMarble.description>巧妙地使用兩種形狀的石頭創造出模糊的數字圖案的鋪路。</FloorStoneDigitalMarble.description>
+  <!-- Diamond stone flooring -->
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+	<FloorStoneDiamondSandstone.label>豪華磚（砂岩）</FloorStoneDiamondSandstone.label>
+	<FloorStoneDiamondGranite.label>豪華磚（花崗岩）</FloorStoneDiamondGranite.label>
+	<FloorStoneDiamondLimestone.label>豪華磚（石灰岩）</FloorStoneDiamondLimestone.label>
+	<FloorStoneDiamondSlate.label>豪華磚（板岩）</FloorStoneDiamondSlate.label>
+	<FloorStoneDiamondMarble.label>豪華磚（大理石）</FloorStoneDiamondMarble.label>
+		
+	<FloorStoneDiamondSandstone.description>錯綜複雜的石材地板圍繞著精確測量的鑽石間隔磚切割。 漂亮，但需要大量時間來構建。</FloorStoneDiamondSandstone.description>
+	<FloorStoneDiamondGranite.description>錯綜複雜的石材地板圍繞著精確測量的鑽石間隔磚切割。 漂亮，但需要大量時間來構建。</FloorStoneDiamondGranite.description>
+	<FloorStoneDiamondLimestone.description>錯綜複雜的石材地板圍繞著精確測量的鑽石間隔磚切割。 漂亮，但需要大量時間來構建。</FloorStoneDiamondLimestone.description>
+	<FloorStoneDiamondSlate.description>錯綜複雜的石材地板圍繞著精確測量的鑽石間隔磚切割。 漂亮，但需要大量時間來構建。</FloorStoneDiamondSlate.description>
+	<FloorStoneDiamondMarble.description>錯綜複雜的石材地板圍繞著精確測量的鑽石間隔磚切割。 漂亮，但需要大量時間來構建。</FloorStoneDiamondMarble.description>
+
+
+</LanguageData>
